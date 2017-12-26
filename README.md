@@ -18,6 +18,7 @@
   - VLC
   - WriteApp
   - Wireshark
+  - App Cleaner 
   
 ## Commandline
   - HomeBrew
