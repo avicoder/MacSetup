@@ -19,6 +19,7 @@
   - WriteApp
   - Wireshark
   - App Cleaner 
+  - Flux
   
 ## Commandline
   - HomeBrew
